@@ -1,0 +1,34 @@
+.menuPane{
+    -fx-background-color: #a20544;
+}
+
+.button{
+    -fx-background-color: #b21554;
+    -fx-border-color: #a20544;
+    -fx-text-fill: white;
+}
+
+.button:hover{
+    -fx-background-color: #c22564;
+}
+
+.currentSceneButton{
+    -fx-background-color:#d23574;
+    -fx-border-color:  #c22564;
+}
+
+.currentSceneButton:hover{
+    -fx-background-color: #e25584;
+}
+
+#errorLabel {
+    -fx-text-fill: red;
+    -fx-text-alignment: center;
+    -fx-alignment: center;
+}
+
+#welcomeLabel {
+    -fx-text-fill: #b21554;
+    -fx-font-family: "Berlin Sans FB Demi Bold";
+    -fx-font-size: 40;
+}
